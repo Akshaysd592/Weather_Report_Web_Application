@@ -1,0 +1,15 @@
+This is a weather forcasting web application :
+-> Made up of HTML CSS and JAVASCRIPT 
+-> Also used API to get weather information and location 
+
+->This application will store user location in sessionstorage and gives his current location weather report
+->It also has search option that can help you to search to location for which you want know the weather
+
+
+Weather application gives information about:
+-- cityname  
+--  country flag
+-- tempreture in °C
+-- windspeed  in m/s
+-- humidity  in %
+-- clouds  in %
